@@ -19,6 +19,10 @@
 		<java.version>17</java.version>
 
 		<sonar.token>sqa_046b36bcf64f0cde1604a5c24229f13d7b6d2d70</sonar.token>
+
+			<sonar.organization>engineering-aakhib</sonar.organization>
+			<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
 	</properties>
 
 
